@@ -58,7 +58,7 @@ section {
 .contenedor {
     max-width: 1600px;
     margin: 0 auto;
-    padding: 1rem;
+    padding: 0.5rem;
 }
 
 header, footer {
