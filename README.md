@@ -25,10 +25,10 @@ a la vez que el docente obtiene un diagnóstico de los conocimientos previos del
 [x] Archivo "README.md" creado, que incluya una breve descripción del TP y este checklist. 
 
 - Repositorio y publicación
-[ ] Repositorio en GitHub creado. 
-[ ] Proyecto subido al repositorio. 
-[ ] Proyecto publicado utilizando Vercel. 
-[ ] En el "README.md" se indica la URL de Vercel.
+[x] Repositorio en GitHub creado. 
+[x] Proyecto subido al repositorio. 
+[x] Proyecto publicado utilizando Vercel. 
+[x] En el "README.md" se indica la URL de Vercel.
 
 - Uso de Google Fonts
 [x] Enlace a Google Fonts incluido en la sección "head" del HTML. 
