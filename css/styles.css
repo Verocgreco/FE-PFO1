@@ -250,6 +250,10 @@ footer .social-icons a:hover {
     font-size: 1.2rem;
   }
 
+  h3 {
+    font-size: 1.2rem;
+  }
+
   nav ul li {
     margin: 10px 0;
   }
@@ -260,7 +264,7 @@ footer .social-icons a:hover {
 
    .sobre-mi-contenido {
     flex-direction: column;
-    text-align: center;
+    text-align: justify;
   }
 
   .sobre-mi-contenido img {
