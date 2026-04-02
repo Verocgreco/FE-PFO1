@@ -273,6 +273,10 @@ footer .social-icons a:hover {
     text-align: center; /* opcional, queda mejor en mobile */
   }
 
+  .tarjetas-container {
+    gap: 1rem;
+  }
+
   .tarjeta {
     flex-direction: column;
     text-align: center;
