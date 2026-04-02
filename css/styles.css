@@ -283,7 +283,7 @@ footer .social-icons a:hover {
 
   .tarjeta {
     flex-direction: column;
-    text-align: center;
+    text-align: justify;
   }
 
   .tarjeta img {
